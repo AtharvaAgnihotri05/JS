@@ -8,6 +8,9 @@
 
 
 
-let isboolen = ""
-let converttobool = Boolean(isboolen)
-console.log(converttobool); 
+// let isboolen = ""
+// let converttobool = Boolean(isboolen)
+// console.log(converttobool); 
+
+
+console.log("12" + 3)
